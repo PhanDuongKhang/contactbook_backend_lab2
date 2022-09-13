@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "scripts": {
+  "script": {
     "start": "nodemon server.js"
   },
   "author": "PHAN DUONG KHANG",
